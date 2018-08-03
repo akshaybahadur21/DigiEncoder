@@ -31,9 +31,9 @@ If you face any problem, kindly raise an issue
 1) First, run `Coder.py` which will train a simple, deep and a convolutional autoencoder and store it in h5 filr.
 2) Now you need to have the data, run `AutoencoderApp.py` which will use computer vision to get the drawn on screen, encodes it and then decodes it to display the image.
 3) For altering the model, check `Coder.py`.
-4) For tensorboard visualization, go to the specific log directory and run this command ` tensorboard --logdir=.` . You can go to `localhost:6006` for visualizing your loss function.
+4) For tensorboard visualization, go to the specific log directory and run this command ` tensorboard --logdir=.` You can go to `localhost:6006` for visualizing your loss function.
 
-<img src="https://github.com/akshaybahadur21/Autopilot/blob/master/autoencoder.gif">
+<img src="https://github.com/akshaybahadur21/DigiEncoder/blob/master/autoencoder.gif">
 
 ### References:
  
