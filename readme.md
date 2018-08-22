@@ -1,4 +1,4 @@
-# DigiEncoder[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/DigiEncoder/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# DigiEncoder  [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/DigiEncoder/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps to undertand the concept of Autoencoders. The autoencoder is trained on mnist digit dataset and it learns encoding of 64 units from an input of 784 pixels. This is a two step procedure.
 1) Encoder - which learns embedding from the input dimensions.
 2) Decoder - which recreates the image from the embedding created by the encoder.
