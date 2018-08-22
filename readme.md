@@ -1,7 +1,10 @@
-## DigiEncoder
+# DigiEncoder[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps to undertand the concept of Autoencoders. The autoencoder is trained on mnist digit dataset and it learns encoding of 64 units from an input of 784 pixels. This is a two step procedure.
 1) Encoder - which learns embedding from the input dimensions.
 2) Decoder - which recreates the image from the embedding created by the encoder.
+
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/DigiEncoder/links/7)
 
 #### Types of Autoencoders used
 1) Simple Network
